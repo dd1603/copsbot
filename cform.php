@@ -18,7 +18,7 @@
             <div class="form-row">
                 <div class="form-group col-md-6">
                 <label for="cnm"></label>
-                <input type="text" class="form-control" id="cnm" name="cnm" placeholder="Complainant's Name">
+                <input type="text" class="form-control" id="cnm" name="cnm" placeholder="ye change kia h">
                 </div>
                 
             </div>
