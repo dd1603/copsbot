@@ -17,7 +17,7 @@
 
             <div class="form-row">
                 <div class="form-group col-md-6">
-                <label for="cnm">Complainant's Name</label>
+                <label for="cnm"></label>
                 <input type="text" class="form-control" id="cnm" name="cnm" placeholder="Complainant's Name">
                 </div>
                 
